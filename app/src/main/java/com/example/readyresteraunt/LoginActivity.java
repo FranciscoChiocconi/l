@@ -23,7 +23,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        button2 = findViewById(R.id.loginbutton);
+        button2 = findViewById(R.id.restarauntsbutton);
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
