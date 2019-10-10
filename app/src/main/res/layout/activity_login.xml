@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/settingsbutton"
+            android:layout_width="0dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="107dp"
+            android:layout_marginTop="56dp"
+            android:layout_marginEnd="107dp"
+            android:layout_marginBottom="40dp"
+            android:text="Settings"
+            app:layout_constraintBottom_toTopOf="@+id/loginbutton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/restarauntsbutton" />
+
+        <Button
+            android:id="@+id/restarauntsbutton"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="103dp"
+            android:layout_marginTop="166dp"
+            android:layout_marginEnd="104dp"
+            android:layout_marginBottom="477dp"
+            android:text="Restaraunts Near Me"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/loginbutton"
+            android:layout_width="196dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="107dp"
+            android:layout_marginBottom="192dp"
+            android:text="Login"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/settingsbutton" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
