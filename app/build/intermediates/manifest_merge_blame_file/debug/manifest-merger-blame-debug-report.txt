@@ -35,7 +35,7 @@
 22-->C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:13:9-51
 22-->C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:13:19-48
 23        <activity android:name="com.example.readyresteraunt.SettingsActivity" />
-23-->C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:14:9-54
+23-->C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:14:9-53
 23-->C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:14:19-51
 24        <activity android:name="com.example.readyresteraunt.MainActivity" >
 24-->C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:15:9-21:20

@@ -28,91 +28,104 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Subway"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="T4"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="The Habit"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Jack in the Box"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Little Caesars"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Johnny's Donut's"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="FreeBirds"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Panera Bread"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Chiptole"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Panda Express"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Taco Bell"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Burger King"
+                android:padding="20dp"/>
 
             <Button
                 android:id="@+id/button16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Random Place" />
+                android:text="Yogurtland"
+                android:padding="20dp"/>
 
         </LinearLayout>
     </ScrollView>

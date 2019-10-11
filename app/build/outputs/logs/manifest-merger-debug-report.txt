@@ -79,7 +79,7 @@ ADDED from C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:1
 	android:name
 		ADDED from C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:13:19-48
 activity#com.example.readyresteraunt.SettingsActivity
-ADDED from C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:14:9-54
+ADDED from C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:14:9-53
 	android:name
 		ADDED from C:\Users\Fran\Desktop\l-testbranch\app\src\main\AndroidManifest.xml:14:19-51
 activity#com.example.readyresteraunt.MainActivity
