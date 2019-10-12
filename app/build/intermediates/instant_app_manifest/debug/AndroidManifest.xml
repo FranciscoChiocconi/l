@@ -20,9 +20,10 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.readyresteraunt.Restaraunts" />
+        <activity android:name="com.example.readyresteraunt.AdministrationActivity" />
         <activity android:name="com.example.readyresteraunt.LoginActivity" />
-        <activity android:name="com.example.readyresteraunt.SettingsActivity" />
-        <activity android:name="com.example.readyresteraunt.MainActivity" >
+        <activity android:name="com.example.readyresteraunt.MainActivity" />
+        <activity android:name="com.example.readyresteraunt.SettingsActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

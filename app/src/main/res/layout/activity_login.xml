@@ -22,36 +22,47 @@
             android:textStyle="bold"/>
 
         <Button
-            android:id="@+id/restaurantspage"
+            android:id="@+id/restarauntsbutton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
-            android:layout_marginTop="75dp"
+            android:layout_marginTop="60dp"
             android:layout_marginRight="100dp"
             android:background="@android:color/holo_red_light"
             android:padding="30dp"
             android:text="Restaurants Near Me" />
 
         <Button
-            android:id="@+id/settingspage"
+            android:id="@+id/settingsbutton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
-            android:layout_marginTop="75dp"
+            android:layout_marginTop="60dp"
             android:layout_marginRight="100dp"
             android:background="@android:color/holo_red_light"
             android:padding="30dp"
             android:text="Settings" />
 
         <Button
-            android:id="@+id/loginpage"
+            android:id="@+id/loginbutton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
-            android:layout_marginTop="75dp"
+            android:layout_marginTop="60dp"
             android:layout_marginRight="100dp"
             android:background="@android:color/holo_red_light"
             android:padding="30dp"
             android:text="Login" />
+
+        <Button
+            android:id="@+id/administrationbutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginRight="100dp"
+            android:background="@android:color/holo_red_light"
+            android:padding="30dp"
+            android:text="Your Restaurant" />
     </LinearLayout>
 </LinearLayout>

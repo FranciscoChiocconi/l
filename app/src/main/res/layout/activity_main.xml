@@ -15,7 +15,7 @@
         android:layout_marginEnd="87dp"
         android:layout_marginBottom="55dp"
         android:gravity="center"
-        android:text="Ready Resteraunt"
+        android:text="Ready Restaurant"
         android:textSize="30dp"
         app:layout_constraintBottom_toTopOf="@+id/editText"
         app:layout_constraintEnd_toEndOf="parent"

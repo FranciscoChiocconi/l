@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 include ':app'
 rootProject.name='Ready Resteraunt'
-=======
-include ':app'
-rootProject.name='Ready Resteraunt'
->>>>>>> new settings page and buttons working

@@ -1,7 +1,7 @@
-#Thu Oct 10 21:58:03 PDT 2019
-base.0=C\:\\Users\\Fran\\Desktop\\l-testbranch\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Fri Oct 11 21:24:22 PDT 2019
+base.0=C\:\\Users\\Fran\\Desktop\\ReadyRestaurant-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Fran\\Desktop\\l-testbranch\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\Fran\\Desktop\\ReadyRestaurant-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
